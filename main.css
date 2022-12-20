@@ -1,0 +1,68 @@
+
+
+      body {
+        margin: 0;
+      }
+      .name {
+        text-align: center;
+        padding: 10px;
+        size: large;
+        background-color: rgb(158, 0, 32);
+        text-decoration: none;
+      }
+      .name:hover{
+        text-decoration:none;
+      }
+	
+      .nav {
+        font-size: 15pt;
+        text-align: center;
+        background-color: rgb(158, 0, 32);
+      }
+      .nav-link {
+        text-decoration: none;
+        display: inline-block;
+        padding-bottom:10px;
+        padding-right:10px;
+        padding-left:10px;
+        color: white;
+        margin-bottom: 5px;
+      }
+
+      .nav-link:hover {
+        text-decoration: none;
+        color: rgb(91, 2, 20);
+      }
+
+    #headshot {
+        padding-top:15pt;
+        float: top;
+        
+    }
+
+    .footer {
+        text-align: center;
+        padding: 10px;
+        size: large;
+        background-color: rgb(158, 0, 32);
+        text-decoration: none;
+    } 
+    
+    .research-title {
+        color:white;
+        background-color: rgb(158, 0, 32);
+        padding: 1%;
+        text-decoration: none;
+    }
+
+    figcaption {
+        color: black;
+        padding: 2px;
+        text-align: center;
+      }
+
+
+
+      
+
+      
