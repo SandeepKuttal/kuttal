@@ -110,8 +110,17 @@
       }
 
       .main {
-        margin-left: 10em;
-        margin-right: 10em;
+        margin-left: 10%;
+        margin-right: 10%;
+      }
+
+      li {
+        padding: 1rem;
+
+      }
+
+      img .logo {
+        width: 20px;
       }
 
       
