@@ -118,6 +118,17 @@
         width: 20px;
       }
 
-      
+      .topics {
+        display: flex;
+        flex-direction: column;
+      }
 
-      
+     .research-project img {
+        padding: 5px;
+        max-height: 200px;
+        float: left;
+     }
+
+     .research-project p {
+        text-align: justify;
+     }
